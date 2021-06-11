@@ -13,10 +13,11 @@
 
 I'm a final year student pursuing Bachelors's in Electronics and Communications 🎓 🏛. I'm a passionate student learner and tech enthusiast who wish to learn and work with emerging thechnologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently into Front end Web 🕸️ & Cloud ☁.
 
-This is my second year at Github
+This is my second year at Github.
+
 Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
-<!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
+ [![](https://gitwar.herokuapp.com/badge?username=haripofficial&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/haripofficial) 
 
 <img align="right" width="375" alt="" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
 
@@ -69,12 +70,10 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOS Big Sur</li>
-	    <li><b>Laptop: </b> MacBook Pro (13-inch, M1, 2020)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Power user)</li>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b>Hp pavilion Notebook</li>
+  	    <li><b>Browser: </b> Chrome Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Dev.to, Medium, Linkedin and Twitter.</li>
 	</ul>	
 </details>
 
