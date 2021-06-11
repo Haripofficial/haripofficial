@@ -9,7 +9,7 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=haripofficial.haripofficial&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![hey](https://visitor-badge.glitch.me/badge?page_id=haripofficial.haripofficial&style=flat-square&color=0088cc)
 
 I'm a final year student pursuing Bachelors's in Electronics and Communications 🎓 🏛. I'm a passionate student learner and tech enthusiast who wish to learn and work with emerging thechnologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently into Front end Web 🕸️ & Cloud ☁.
 
@@ -18,7 +18,7 @@ Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues,
 
 <!-- [![](https://gitwar.herokuapp.com/badge?username=bhatvikrant&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/bhatvikrant) -->
 
-<img align="right" width="375" alt="" src="https://media.giphy.com/media/iKHNc9zt4khhufgtdi/giphy.gif" />
+<img align="right" width="375" alt="" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
