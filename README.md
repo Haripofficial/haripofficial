@@ -1,9 +1,10 @@
-### Hi there 👋
+
+### Hey 👋, I'm [Hari....!](https://linkedin.com/in/haripofficial)
 
 
-## Hey 👋, I'm [Hari....!](https://linkedin.com/in/haripofficial)
+<img align="center" alt="banner" src="https://media-exp3.licdn.com/dms/image/C5616AQGgNGl94i9EUw/profile-displaybackgroundimage-shrink_350_1400/0/1607970354666?e=1629331200&v=beta&t=N9NRWYAfL2CPZW26nflqNJKV3Eu5sg_gFS8Bej4xObE" />
 
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eduyer.blogspot.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haripofficial)
 
