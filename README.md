@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![hey](https://visitor-badge.glitch.me/badge?page_id=haripofficial.haripofficial&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Electronics and Communications 🎓 🏛. I'm a passionate student learner and tech enthusiast who wish to learn and work with emerging thechnologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently into Front end Web 🕸️ & Cloud ☁.
+I'm a Graduate in Electronics and Communications Engineering🎓 & a passionate student learner and tech enthusiast who wish to learn and work with emerging thechnologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently into DevOps technologies🕸️ & Cloud ☁.
 
 
  <!--[![](https://gitwar.herokuapp.com/badge?username=haripofficial&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/haripofficial)--> 
@@ -19,8 +19,8 @@ I'm a final year student pursuing Bachelors's in Electronics and Communications 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Flask, HTML5, CSS, , GCP, Azure etc.
-- 🚀 &nbsp; I’m currently learning Static web Development.
+- 🛠 &nbsp; I’m currently working with DevOps technologies like Kubernetes, Docker, Docker-compose and Cloud computing.
+- 🚀 &nbsp; I’m currently learning AWS and Cloud computing skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/haripofficial).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/haripofficial)! I am happy to help.
 - 📫 &nbsp; How to reach me: harilbscek@gmail.com.
