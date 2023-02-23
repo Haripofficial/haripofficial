@@ -10,8 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![hey](https://visitor-badge.glitch.me/badge?page_id=haripofficial.haripofficial&style=flat-square&color=0088cc)
 
-I'm a Graduate in Electronics and Communications Engineering🎓 & a passionate student learner and tech enthusiast who wish to learn and work with emerging thechnologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. . I'm currently into DevOps technologies🕸️ & Cloud ☁.
-
+As a highly motivated and passionate graduate with a deep interest in technology, I am committed to exploring and leveraging emerging technologies to solve real-world problems. My enthusiasm for learning and dedication to staying up-to-date with the latest advancements in the field drives my work in DevOps technologies and Cloud computing. With a focus on practical applications, I am always eager to find new and innovative ways to utilize cutting-edge tools and techniques to create solutions that make a real difference.
 
  <!--[![](https://gitwar.herokuapp.com/badge?username=haripofficial&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/haripofficial)--> 
 
@@ -19,19 +18,17 @@ I'm a Graduate in Electronics and Communications Engineering🎓 & a passionate 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with DevOps technologies like Kubernetes, Docker, Docker-compose and Cloud computing.
-- 🚀 &nbsp; I’m currently learning AWS and Cloud computing skills.
+- 🛠 &nbsp; Currently working with DevOps technologies like Kubernetes, Docker, Docker-compose and Cloud computing.
+- 🚀 &nbsp; Trying to improve AWS and Cloud Computing skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/haripofficial).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/haripofficial)! I am happy to help.
-- 📫 &nbsp; How to reach me: harilbscek@gmail.com.
+- 📫 &nbsp; How to reach me: https://www.linkedin.com/in/haripofficial.
 - [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://eduyer.blogspot.com/)
-<!-- 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to explore new tech and building cool stuff with it.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
 - ⚡ &nbsp; Fun fact: I love to Outdoor games more than Video games
 
 
@@ -50,53 +47,6 @@ I'm a Graduate in Electronics and Communications Engineering🎓 & a passionate 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haripofficial&hide_border=true" />
 </details>
 
-
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
-	    <li><b>Laptop: </b>Hp pavilion Notebook</li>
-  	    <li><b>Browser: </b> Chrome Browser</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	</ul>	
-</details>
-
-#
-
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Haripofficial/haripofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
